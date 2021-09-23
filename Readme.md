@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Sergei Kurapov](https://up.htmlacademy.ru/htmlcss/32/user/1591253).
-* Наставник: `Неизвестно`.
+* Наставник: [Анастасия Смирнова](https://htmlacademy.ru/profile/id232838).
 
 ---
 
